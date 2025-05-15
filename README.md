@@ -1,4 +1,4 @@
-<h1 align="center">Hello World!, I'm Dev, a Indian Web Developer 👋🏼:</h1>
+<h1 align="center">Hello World!, I'm Dev, an Indian Web Developer 👋🏼:</h1>
 
 ###
 
